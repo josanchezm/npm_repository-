@@ -13,8 +13,16 @@
   ],
   "author": "Jaime Sanchez",
   "license": "MIT",
-  "bin": { 
-    "random-msg": "./bin/global.js"
+  "bin": {
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josanchezm/npm_repository-.git"
+  },
+  "bugs": {
+    "url": "https://github.com/josanchezm/npm_repository-/issues"
+  },
+  "homepage": "https://github.com/josanchezm/npm_repository-#readme"
 }
