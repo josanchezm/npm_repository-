@@ -1,6 +1,6 @@
 {
   "name": "npm_project_josanchezm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "random de mensajes ",
   "main": "src/index.js ",
   "scripts": {
