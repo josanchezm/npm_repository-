@@ -1,0 +1,20 @@
+{
+  "name": "npm_project_josanchezm",
+  "version": "1.0.0",
+  "description": "random de mensajes ",
+  "main": "src/index.js ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Javascript",
+    "Node",
+    "npm"
+  ],
+  "author": "Jaime Sanchez",
+  "license": "MIT",
+  "bin": { 
+    "random-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
